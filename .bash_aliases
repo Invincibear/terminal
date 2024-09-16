@@ -1,6 +1,7 @@
 alias gb='git branch'
 alias gc='git checkout'
 alias gd='git branch -D'
+alias gp='git pull'
 alias cr='cd ~/revelator'
 
 alias tf='/usr/bin/terraform'
